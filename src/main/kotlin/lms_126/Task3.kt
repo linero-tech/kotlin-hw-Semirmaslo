@@ -7,5 +7,5 @@ fun task3(): String {
         INPUT base of triangle
         Calculate area = 0.5 * base * height
         OUTPUT area of triangle
-    """.trimIndent()
+    """
 }
