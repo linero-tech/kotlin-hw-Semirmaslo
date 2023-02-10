@@ -11,7 +11,7 @@ fun task5(): String {
         ELSE IF value of X is 5 OUTPUT Friday
         ELSE IF value of X is 6 OUTPUT Saturday
         ELSE IF value of X is 7 OUTPUT Sunday
-        ELSE IF value of X is 8 OUTPUT error message
+        ELSE OUTPUT error
         
     """
 }
