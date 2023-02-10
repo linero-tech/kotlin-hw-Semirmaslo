@@ -2,5 +2,10 @@ package lms_126
 
 fun task6(): String {
 
-    return TODO("Replace this 'TODO' with your solution")
+    return """
+        INPUT number in range 100
+        IF number multiples with 5 = print number
+        ELSE print error
+        
+    """
 }
