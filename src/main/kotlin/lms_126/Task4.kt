@@ -3,8 +3,8 @@ package lms_126
 fun task4(): String {
 
     return """
-        If X > Y then print X
-        If Y > X then print Y
+        IF X have higher value then Y print X
+        IF Y have higher value then X print Y
         OUTPUT print highest value
         
     """
