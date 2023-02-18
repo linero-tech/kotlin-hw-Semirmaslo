@@ -3,7 +3,7 @@ package lms_127
 fun task1() {
 
   fun main
-    println("Sweden")
-    println("Stockholm")
-    println("SEK")
+    println("Country Name = Sweden")
+    println("Capital = Stockholm")
+    println("Currency = SEK")
 }
