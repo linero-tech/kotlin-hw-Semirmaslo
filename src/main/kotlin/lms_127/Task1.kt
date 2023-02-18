@@ -6,10 +6,12 @@ fun task1() {
     val capital = "Stockholm"
     val currency = "SEK"
     val sentence = "$country $capital $currency"
-
+}
 fun main() {
     task1()
-    println("sentence")
+    println("country = Sweden")
+    println("capital = Stockholm")
+    println("currency = SEK")
 }
 
 
