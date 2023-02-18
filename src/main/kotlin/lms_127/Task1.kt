@@ -2,7 +2,8 @@ package lms_127
 
 fun task1() {
 
-    println("Country Name = Sweden")
-    println("Capital = Stockholm")
-    println("Currency = SEK")
+    val country = "Sweden"
+    val capital = "Stockholm"
+    val currency = "SEK"
+    val sentence = "$country $capital $currency"
 }
