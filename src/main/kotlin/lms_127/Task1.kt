@@ -7,9 +7,9 @@ fun task1() {
     val currency = "SEK"
     val sentence = "$country $capital $currency"
 
-    println("country: $country")
-    println("capital: $capital")
-    println("currency: $currency")
+    println("Country: $country")
+    println("Capital: $capital")
+    println("Currency: $currency")
 }
 fun main() {
     task1()
