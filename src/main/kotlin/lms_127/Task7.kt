@@ -7,5 +7,5 @@ fun task7(sentence: String): Int {
 }
 fun main() {
     task7(sentence= "I love GBG")
-    println(task7((sentence= "I love GBG"))
+    println(task7(sentence= "I love GBG"))
 }
